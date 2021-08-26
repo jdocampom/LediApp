@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Master Bedroom",
+        "location": "Home",
+        "city": "Bogotá",
+        "id": 1001,
+        "coordinates": {
+            "longitude":-74.0852107,
+            "latitude": 4.6398657
+        },
+        "dailyUsage": [6.7, 8.2, 7.0, 9.4, 8.0, 6.1, 7.3],
+        "imageName": "bedroom",
+        "glyphName": "bed",
+    },
+    {
+        "name": "Guest Bedroom",
+        "location": "Home",
+        "city": "Bogotá",
+        "id": 1002,
+        "coordinates": {
+            "longitude":-74.0852107,
+            "latitude": 4.6398657
+        },
+        "dailyUsage": [3.2, 1.5, 2.2, 1.8, 2.0, 3.0, 3.5],
+        "imageName": "bedroom_guest",
+        "glyphName": "bed_guest",
+    },
+    {
+        "name": "Living Room",
+        "location": "Home",
+        "city": "Bogotá",
+        "id": 1003,
+        "coordinates": {
+            "longitude":-74.0852107,
+            "latitude": 4.6398657
+        },
+        "dailyUsage": [11.4, 10.9, 9.1, 9.4, 10.2, 12.1, 10.7],
+        "imageName": "couch_image",
+        "glyphName": "couch",
+    },
+    {
+        "name": "Kitchen",
+        "location": "Home",
+        "city": "Bogotá",
+        "id": 1004,
+        "coordinates": {
+            "longitude":-74.0852107,
+            "latitude": 4.6398657
+        },
+        "dailyUsage": [4.2, 3.7, 3.5, 2.9, 3.1, 4.0, 3.3],
+        "imageName": "kitchen_image",
+        "glyphName": "kitchen",
+    },
+]

@@ -11,7 +11,7 @@
           "value" : "light"
         }
       ],
-      "filename" : "bed.png",
+      "filename" : "couch.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -22,7 +22,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "bed-1.png",
+      "filename" : "bed.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
